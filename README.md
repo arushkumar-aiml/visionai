@@ -12,8 +12,7 @@
 
 ## 🌟 What is VisionAI?
 
-VisionAI is a full-stack image classification web app built on top of [nicknochnack/ImageClassification](https://github.com/nicknochnack/ImageClassification). We extended it with:
-
+VisionAI is a full-stack image classification web app:
 | Feature | Description |
 |---|---|
 | 🌐 Streamlit Web App | Upload any image, get classified in seconds |
@@ -154,8 +153,8 @@ visionai/
 - **Arush Kumar** — [@arushkumar-aiml](https://github.com/arushkumar-aiml)
 - **Ayushi Shukla** - [@ayushishuklaME](https://github.com/ayushishuklaME)
 
-**Based on:**
-- [nicknochnack/ImageClassification](https://github.com/nicknochnack/ImageClassification) — original TensorFlow classifier notebook
+
+
 
 **Powered by:**
 - [Anthropic Claude](https://anthropic.com) — AI explanations via AntigravityAI
