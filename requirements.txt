@@ -1,0 +1,18 @@
+# VisionAI — Requirements
+# Built by Arush Kumar & Ayushi Shukla | github.com/arushkumar-aiml/visionai
+
+# Core ML
+tensorflow>=2.12.0
+numpy>=1.23.0
+
+# Web app
+streamlit>=1.32.0
+
+# AI explainer
+anthropic>=0.25.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Utilities (usually included, but explicit is better)
+requests>=2.31.0
